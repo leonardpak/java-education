@@ -1,0 +1,94 @@
+Choose from the following options:
+1. Toss Coin
+2. Exit
+34534
+Invalid entry!
+Choose from the following options:
+1. Toss Coin
+2. Exit
+3812974
+Invalid entry!
+Choose from the following options:
+1. Toss Coin
+2. Exit
+0
+Invalid entry!
+Choose from the following options:
+1. Toss Coin
+2. Exit
+765
+Invalid entry!
+Choose from the following options:
+1. Toss Coin
+2. Exit
+-636353
+Invalid entry!
+Choose from the following options:
+1. Toss Coin
+2. Exit
+1
+Coin landed on tails.
+ Total Heads: 0
+ Total Tails: 1
+Choose from the following options:
+1. Toss Coin
+2. Exit
+1
+Coin landed on heads.
+ Total Heads: 1
+ Total Tails: 1
+Choose from the following options:
+1. Toss Coin
+2. Exit
+1
+Coin landed on tails.
+ Total Heads: 1
+ Total Tails: 2
+Choose from the following options:
+1. Toss Coin
+2. Exit
+1
+Coin landed on tails.
+ Total Heads: 1
+ Total Tails: 3
+Choose from the following options:
+1. Toss Coin
+2. Exit
+1
+Coin landed on heads.
+ Total Heads: 2
+ Total Tails: 3
+Choose from the following options:
+1. Toss Coin
+2. Exit
+1
+Coin landed on tails.
+ Total Heads: 2
+ Total Tails: 4
+Choose from the following options:
+1. Toss Coin
+2. Exit
+1
+Coin landed on heads.
+ Total Heads: 3
+ Total Tails: 4
+Choose from the following options:
+1. Toss Coin
+2. Exit
+1
+Coin landed on heads.
+ Total Heads: 4
+ Total Tails: 4
+Choose from the following options:
+1. Toss Coin
+2. Exit
+1
+Coin landed on heads.
+ Total Heads: 5
+ Total Tails: 4
+Choose from the following options:
+1. Toss Coin
+2. Exit
+2
+Program exited.
+Press any key to continue . . .

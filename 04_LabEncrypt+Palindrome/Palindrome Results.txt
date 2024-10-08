@@ -1,0 +1,19 @@
+Enter a 5-digit number to determine whether it is a palindrome or not: 53435
+Entered number IS a palindrome.
+Press any key to continue . . .
+
+Enter a 5-digit number to determine whether it is a palindrome or not: 84348
+Entered number IS a palindrome.
+Press any key to continue . . .
+
+Enter a 5-digit number to determine whether it is a palindrome or not: 23564
+Entered number is NOT a palindrome.
+Press any key to continue . . .
+
+Enter a 5-digit number to determine whether it is a palindrome or not: 212
+Entered number not a 5-digit number, please retry: 1536346
+Entered number not a 5-digit number, please retry: 3324
+Entered number not a 5-digit number, please retry: 164633
+Entered number not a 5-digit number, please retry: 55355
+Entered number IS a palindrome.
+Press any key to continue . . .

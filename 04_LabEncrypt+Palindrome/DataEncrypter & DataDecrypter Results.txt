@@ -1,0 +1,33 @@
+Enter a 4-digit number to be encrypted: 5612
+The newly encrypted number is: 8923
+Press any key to continue . . .
+
+Enter a 4-digit number to be encrypted: 8250
+The newly encrypted number is: 2759
+Press any key to continue . . .
+
+Enter a 4-digit number to be encrypted: 1234125
+Entered number not a 4-digit number, please retry: 2312414
+Entered number not a 4-digit number, please retry: 213
+Entered number not a 4-digit number, please retry: 112
+Entered number not a 4-digit number, please retry: 1
+Entered number not a 4-digit number, please retry: 2
+Entered number not a 4-digit number, please retry: 134342
+Entered number not a 4-digit number, please retry: 1337
+The newly encrypted number is: 0480
+Press any key to continue . . .
+
+
+
+
+Enter a 4-digit number to be decrypted: 8923
+The newly decrypted number is: 5612
+Press any key to continue . . .
+
+Enter a 4-digit number to be decrypted: 2759
+The newly decrypted number is: 8250
+Press any key to continue . . .
+
+Enter a 4-digit number to be decrypted: 0480
+The newly decrypted number is: 1337
+Press any key to continue . . .

@@ -1,0 +1,14 @@
+Calculating Pythagorean Triples under 25.
+Sides 3, 4, 5, form a Pythagorean Triple.
+Sides 4, 3, 5, form a Pythagorean Triple.
+Sides 5, 12, 13, form a Pythagorean Triple.
+Sides 6, 8, 10, form a Pythagorean Triple.
+Sides 8, 6, 10, form a Pythagorean Triple.
+Sides 8, 15, 17, form a Pythagorean Triple.
+Sides 9, 12, 15, form a Pythagorean Triple.
+Sides 12, 5, 13, form a Pythagorean Triple.
+Sides 12, 9, 15, form a Pythagorean Triple.
+Sides 12, 16, 20, form a Pythagorean Triple.
+Sides 15, 8, 17, form a Pythagorean Triple.
+Sides 16, 12, 20, form a Pythagorean Triple.
+Press any key to continue . . .
